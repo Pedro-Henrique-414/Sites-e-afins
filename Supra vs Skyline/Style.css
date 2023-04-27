@@ -1,12 +1,20 @@
-#Supra {margin-top: 30px; margin-bottom: 30px; margin-left: 170px;}
-#Skyline {width: 75%; margin-top: 30px; margin-bottom: 30px; margin-left: 170px;}
+body {background-color: #DDDDDD;
+}
 
-h1{text-align: center; font-size: 40px;}
+#Supra {margin-top: 30px; margin-bottom: 30px; margin-left: 170px;
+}
 
-h2{margin-top: 70px; font-size: 30px;}
+#Skyline {width: 75%; margin-top: 30px; margin-bottom: 30px; margin-left: 170px;
+}
 
-p{text-align: justify; font-size: larger;}
+h1{text-align: center; font-size: 40px;
+}
 
-#final {text-align: center; margin-top: 8%;}
+h2{margin-top: 70px; font-size: 30px;
+}
 
-body {background-color: #DDDDDD;}
+p{text-align: justify; font-size: larger;
+}
+
+#final {text-align: center; margin-top: 8%;
+}
