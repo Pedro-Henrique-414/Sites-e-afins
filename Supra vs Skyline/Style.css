@@ -1,19 +1,17 @@
 body {background-color: #DDDDDD;
 }
 
-#Supra {margin-top: 30px; margin-bottom: 30px; margin-left: 170px;
+header {text-align: center; font-size: 25px; padding: 50px;
 }
 
-#Skyline {width: 75%; margin-top: 30px; margin-bottom: 30px; margin-left: 170px;
+h2 {margin-top: 70px; font-size: 30px;
 }
 
-h1{text-align: center; font-size: 40px;
+p {text-align: justify; font-size: larger; margin-bottom: 40px; margin-top: 40px;
 }
 
-h2{margin-top: 70px; font-size: 30px;
-}
-
-p{text-align: justify; font-size: larger;
+.imagens {
+width: 75%; margin-top: 30px; margin-bottom: 30px; margin-left: 170px;
 }
 
 #final {text-align: center; margin-top: 8%;
