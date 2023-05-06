@@ -4,10 +4,10 @@ body {background-color: #DDDDDD;
 header {text-align: center; font-size: 25px; padding: 50px;
 }
 
-h2 {margin-top: 70px; font-size: 30px;
+h2 {margin-top: 70px; font-size: 30px; padding: 20px;
 }
 
-p {text-align: justify; font-size: larger; margin-bottom: 40px; margin-top: 40px;
+p {text-align: justify; font-size: larger; padding: 20px; margin-bottom: 40px; margin-top: 40px;
 }
 
 .imagens {
