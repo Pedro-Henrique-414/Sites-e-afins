@@ -14,4 +14,5 @@ p {text-align: justify; font-size: larger; padding: 20px; margin-bottom: 40px; m
 width: 75%; margin-top: 30px; margin-bottom: 30px; margin-left: 170px;
 }
 
-#final {text-align: center; margin-top: 8%;}
+#final {text-align: center; margin-top: 8%; text-decoration: none;}
+#final a {text-decoration: none;}
